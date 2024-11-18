@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+# EXP3:HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -64,9 +64,10 @@ Developed by:Parveen sulthana  RegisterNumber: 24900218*/
 
 **RTL Schematic**
 
-![half adder d1](https://github.com/user-attachments/assets/541bdaab-4e1c-4df8-8748-65afb08bcf51)
+![half adder d1](https://github.com/user-attachments/assets/c047fc2c-b8ed-4b9c-8b8d-2793bd31b9a1)
 
-![half subtractor d2](https://github.com/user-attachments/assets/7f4f38e8-238d-49f9-9b37-1325ffbc7f74)
+![half subtractor d2](https://github.com/user-attachments/assets/6a996052-d43c-49cc-9e9e-a6cbd4a56c04)
+
 
 **Output/TIMING Waveform**
 
